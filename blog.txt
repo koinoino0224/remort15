@@ -1,0 +1,21 @@
+--------------
+blog-title 
+--------------
+
+( header.jpg )
+
+MENU
+.profile
+.news
+.article
+.site map
+.link
+
+[2020/06/22]
+はじめまして ...
+
+[2020/06/30]
+さて、今日は ...
+
+------------
+My-blog(c) 2020
