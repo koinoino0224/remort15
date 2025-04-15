@@ -4,12 +4,12 @@
 
 ( apple.jpg )
 
-MENU
-.profile
-.news
-.article
-.site map
-.link
+メニュー
+.自己紹介
+.ニュース
+.記事
+.サイトマップ
+.リンク
 
 [2020/06/22]
 はじめまして ...
